@@ -1,4 +1,4 @@
-package entity.java;
+package entity;
 
 import jakarta.persistence.*;
 import lombok.AccessLevel;
